@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juanma
 
 🎯 Soy un desarrollador con más de 1 año de experiencia ,interesado en el desarrollo **Full Stack**.  
-🚀 He trabajado con tecnologías del stack **MERN**, estoy también sumergido en SpringBoot actualmente para el backend y poder satisfacer las necesidades del mercado.
+🚀 He trabajado con tecnologías del stack **MERN**, estoy también sumergido en Java y SpringBoot actualmente para el backend y poder satisfacer las necesidades del mercado.
 
 💼 Estoy en búsqueda de oportunidades para demostrar mi compromiso, mejorar mis habilidades y contribuir en proyectos reales.
 
@@ -20,7 +20,7 @@
 Hi there! I’m **@juanmadeveloperz**, a passionate **Junior Frontend Developer** with Full Stack experience.
 
 🎯 I’m a developer with over 1 year of experience, interested in **Full Stack** development.  
-💻 I’ve worked with the **MERN stack**, and I’m currently diving into **Spring Boot** for backend development to meet market demands.
+💻 I’ve worked with the **MERN stack**, and I’m currently diving into **Spring Boot** & **Spring Boot** for backend development to meet market demands.
 
 🌐 Technologies I enjoy working with:
 - **Frontend:** JavaScript, ReactJS, HTML, CSS, TailwindCSS  
