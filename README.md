@@ -1,40 +1,36 @@
-# 👋 ¡Hola! Soy Juanma
+# ¡Hola! Soy Juanma 👋
 
-🎯 Soy un desarrollador con más de 1 año de experiencia ,interesado en el desarrollo **Full Stack**.  
-🚀 He trabajado con tecnologías del stack **MERN**, estoy también sumergido en Java y SpringBoot actualmente para el backend y poder satisfacer las necesidades del mercado.
+Backend Developer especializado en Java/Spring Boot y arquitectura escalable.
 
-💼 Estoy en búsqueda de oportunidades para demostrar mi compromiso, mejorar mis habilidades y contribuir en proyectos reales.
+🚀 **Actualmente trabajando en:**
+- **GoldSlot**: Plataforma SaaS de gestión educativa
+  - v1.0: Backend Java/Servlets en producción (cliente real: Autoescuela Loreto)
+  - v2.0: Migración a Spring Boot + React/Vite + PostgreSQL + Docker + AWS
+  - Objetivo: MVP comercial Q4 2026
 
-👨‍💻 Me encanta trabajar en proyectos que involucren tecnologías como:
-- **Frontend:** JavaScript | ReactJS | HTML | CSS | TailwindCSS  
-- **Backend:** Node.js | Express | Java | Spring Boot  
-- **Bases de datos:** MongoDB | MySQL | SQL  
+💡 **Stack técnico:**
+- **Backend**: Java, Spring Boot, Spring Security, JPA, Node.js/Express, REST APIs, JWT
+- **Database**: PostgreSQL, MySQL, MongoDB
+- **DevOps & Cloud**: Docker, GitHub Actions, Jenkins, AWS (EC2, S3, RDS)
+- **Metodologías**: SOLID, Clean Code, TDD, Agile, Kanban
 
-🤝 Estoy abierto a colaborar en proyectos, ya sea en el frontend o backend.  
-📬 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/juan-manuel-espi%C3%B1o-pastor-28244183/)
+📂 **Proyectos destacados:**
+- [GoldSlot](https://github.com/juanmadeveloperz/goldslot-local) - SaaS educativa en Java (migración a Spring Boot)
+- [MotorLabs & Riders](https://github.com/juanmadeveloperz/motorlabsandriders-backend) - Full-Stack MERN desplegado en Vercel
 
----
+🎯 **Objetivo**: Backend Developer en empresa tech con stack Java/Spring/DevOps/AWS
 
-# 🔥 About me (English)
-
-Hi there! I’m **@juanmadeveloperz**, a passionate **Junior Frontend Developer** with Full Stack experience.
-
-🎯 I’m a developer with over 1 year of experience, interested in **Full Stack** development.  
-💻 I’ve worked with the **MERN stack**, and I’m currently diving into **Spring Boot** & **Spring Boot** for backend development to meet market demands.
-
-🌐 Technologies I enjoy working with:
-- **Frontend:** JavaScript, ReactJS, HTML, CSS, TailwindCSS  
-- **Backend:** Node.js, Express, Java, Spring Boot  
-- **Databases:** MongoDB, MySQL, SQL  
-
-🔍 I’m looking for opportunities to grow professionally and contribute to real-world projects.  
-📎 Let’s connect on [LinkedIn](https://www.linkedin.com/in/juan-manuel-espi%C3%B1o-pastor-28244183/)
-
-🎮 **Fun facts:**
-- Huge fan of video games 🎮  
-- I love all kinds of music — especially 80s, metal, and urban 🎧  
-- I can't code without music on 🔊
+📫 **Contacto**: 
+- LinkedIn: [juanmanuel-espiño](https://linkedin.com/in/juanmanuel-espiño/)
+- Email: juanm1ta47@gmail.com
 
 ---
 
-🛠 *Check out my pinned repositories below to see what I’ve been working on!*
+## About me (English)
+
+Hi! I'm Juanma, a Backend Developer focused on Java/Spring Boot development.
+
+Currently working on GoldSlot, a SaaS platform for educational management. 
+I'm building scalable backend architectures with Java/Spring Boot, DevOps practices, and AWS cloud deployment.
+
+Interested in collaborating on Java/Backend projects or discussing software architecture.
