@@ -24,13 +24,3 @@ Backend Developer especializado en Java/Spring Boot y arquitectura escalable.
 - LinkedIn: [juanmanuel-espiño](https://linkedin.com/in/juanmanuel-espiño/)
 - Email: juanm1ta47@gmail.com
 
----
-
-## About me (English)
-
-Hi! I'm Juanma, a Backend Developer focused on Java/Spring Boot development.
-
-Currently working on GoldSlot, a SaaS platform for educational management. 
-I'm building scalable backend architectures with Java/Spring Boot, DevOps practices, and AWS cloud deployment.
-
-Interested in collaborating on Java/Backend projects or discussing software architecture.
